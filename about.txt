@@ -1,0 +1,8 @@
+Contents:
+
+dict_and_gams contains dict.txt and gams.gms written by the gams "solver" option convert when setting CNS-option equal to convert and format=gams in settings.gms and running base_model
+in the GREU-model downloaded from the public git-repository at https://github.com/DREAM-DK/GREU on december 9th 2025. 
+
+gms-files contains all the gms-files in the folder "model" in the same repository.
+
+For inspectability, the folder gdx-output-for-comp contains a gdx, the regular output-file from the greu-model, which I ran immediately after downloading the model.
